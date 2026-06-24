@@ -1,0 +1,13 @@
+LIBRARY
+EXPORTS
+	CreateSimpleMediaRecorder @1
+	CleanupSimpleMediaRecorder @2
+	AddSimpleMediaInput @3
+	RemoveSimpleMediaInput @4
+	RemoveSimpleMediaInputByName @5
+	SetSimpleMediaOutputDirectory @6
+	GetSimpleMediaOutputDirectory @7
+	StartSimpleMediaStream @8
+	StopSimpleMediaStream @9
+	StartSimpleMediaInputStream @10
+	StopSimpleMediaInputStream @11

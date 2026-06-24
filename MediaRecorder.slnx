@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MediaRecorder/MediaRecorder.vcxproj" Id="3004093e-ab83-441e-b1ba-3823ae789ca3" />
+  <Project Path="SimpleMediaRecorder/SimpleMediaRecorder.vcxproj" Id="0336c0fd-75cb-4faf-8e0c-ab006f5333ce" />
+</Solution>
